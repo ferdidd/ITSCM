@@ -16,4 +16,4 @@ Chaque fichier `.c` est accompagné de son exécutable compilé (sans extension)
 Les codes sont commentés et incluent un header descriptif.
 
 ---
-© 2024 ferdidd
+
