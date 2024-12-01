@@ -4,12 +4,13 @@ Ce dépôt contient mes exercices de programmation en C.
 ## 📂 Structure du dépôt
 ```
 exercices_langage_C_ITSCM/
-├── exercices_entrainement/  
-│   ├── calculateur_de_gel_simple.c  
+├── exercices_entrainement/
+│   ├── calculateur_de_gel_simple.c
 │   ├── circonf_calculateur_simple.c
 │   └── soustracteur_simple.c
 └── instructions_ecriture_lecture/
-    └── affichage_somme_simple.c
+    ├── affichage_somme_simple.c
+    └── affichage_somme_produit_simple2.c
 ```
 
 Chaque fichier `.c` est accompagné de son exécutable compilé (sans extension).
@@ -22,6 +23,7 @@ Chaque fichier `.c` est accompagné de son exécutable compilé (sans extension)
 
 ### Instructions d'écriture et lecture
 - [Affichage de sommes](exercices_langage_C_ITSCM/instructions_ecriture_lecture/affichage_somme_simple.c) - Affichage de sommes
+- [Affichage de sommes et produits 2](exercices_langage_C_ITSCM/instructions_ecriture_lecture/affichage_somme_produit_simple2.c) - Affichage de sommes et produits 2
 
 ## 🛠 Environnement de développement
 - **Compilateur**: Apple Clang 16.0.0
