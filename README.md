@@ -10,7 +10,8 @@ exercices_langage_C_ITSCM/
 │   └── soustracteur_simple.c
 └── instructions_ecriture_lecture/
     ├── affichage_somme_simple.c
-    └── affichage_somme_produit_simple2.c
+    ├── affichage_somme_produit_simple2.c
+    └── calculateur_tva_simple.c
 ```
 
 Chaque fichier `.c` est accompagné de son exécutable compilé (sans extension).
@@ -24,6 +25,7 @@ Chaque fichier `.c` est accompagné de son exécutable compilé (sans extension)
 ### Instructions d'écriture et lecture
 - [Affichage de sommes](exercices_langage_C_ITSCM/instructions_ecriture_lecture/affichage_somme_simple.c) - Affichage de sommes
 - [Affichage de sommes et produits 2](exercices_langage_C_ITSCM/instructions_ecriture_lecture/affichage_somme_produit_simple2.c) - Affichage de sommes et produits 2
+- [Calculateur de TVA](exercices_langage_C_ITSCM/instructions_ecriture_lecture/calculateur_tva_simple.c) - Calcul de TVA
 
 ## 🛠 Environnement de développement
 - **Compilateur**: Apple Clang 16.0.0
