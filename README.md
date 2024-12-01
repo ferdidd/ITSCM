@@ -13,7 +13,12 @@ exercices_langage_C_ITSCM/
 ```
 
 Chaque fichier `.c` est accompagné de son exécutable compilé (sans extension).
-Les codes sont commentés et incluent un header descriptif.
+
+## 🛠 Environnement de développement
+- **Compilateur**: Apple Clang 16.0.0
+- **Version**: clang-1600.0.26.4
+- **Architecture**: arm64-apple-darwin24.1.0
+- **Modèle de thread**: posix
 
 ---
 
