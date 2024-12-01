@@ -16,12 +16,12 @@ Chaque fichier `.c` est accompagné de son exécutable compilé (sans extension)
 
 ## 💻 Liste des exercices
 ### Exercices d'entraînement
-- [Calculateur de gel](exercices_entrainement/calculateur_de_gel_simple.c) - Détecteur de gel de liquides
-- [Calculateur de circonférence](exercices_entrainement/circonf_calculateur_simple.c) - Calcul de circonférence
-- [Soustracteur](exercices_entrainement/soustracteur_simple.c) - Calculs simples de soustraction
+- [Calculateur de gel](exercices_langage_C_ITSCM/exercices_entrainement/calculateur_de_gel_simple.c) - Détecteur de gel de liquides
+- [Calculateur de circonférence](exercices_langage_C_ITSCM/exercices_entrainement/circonf_calculateur_simple.c) - Calcul de circonférence
+- [Soustracteur](exercices_langage_C_ITSCM/exercices_entrainement/soustracteur_simple.c) - Calculs simples de soustraction
 
 ### Instructions d'écriture et lecture
-- [Affichage de sommes](instructions_ecriture_lecture/affichage_somme_simple.c) - Affichage de sommes
+- [Affichage de sommes](exercices_langage_C_ITSCM/instructions_ecriture_lecture/affichage_somme_simple.c) - Affichage de sommes
 
 ## 🛠 Environnement de développement
 - **Compilateur**: Apple Clang 16.0.0
