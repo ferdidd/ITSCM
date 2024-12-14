@@ -42,7 +42,9 @@ int main()
 		totalTTC = totalHT+((totalHT*TVA)/100);
 		printf("prix total HT : %.0f,\nprix total TTC : %.2f", totalHT, totalTTC);
 		while(getchar() != '\n'){}
+		printf("\033[5m");
 		printf("\n\n\nAppuyez sur <ENTER> pour continuer ou sur <q> pour quitter : ");
+		printf("\033[0m");
 		touche = getchar();
 		if(touche == 'q' || touche == 'Q')
 		{
