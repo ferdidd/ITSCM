@@ -29,10 +29,10 @@ Chaque fichier `.c` est accompagné de son exécutable compilé (sans extension)
 - [Soustracteur](exercices_langage_C_ITSCM/exercices_entrainement/soustracteur_simple.c) - Calculs simples de soustraction
 
 ### Instructions d'écriture et lecture
-- [Exercice 11](exercices_langage_C_ITSCM/instructions_ecriture_lecture/exercice_11.c) - Affichage de sommes et produits
-- [Exercice 12](exercices_langage_C_ITSCM/instructions_ecriture_lecture/exercice_12.c) - Affichage de sommes et produits 2
-- [Exercice 13](exercices_langage_C_ITSCM/instructions_ecriture_lecture/exercice_13.c) - Calcul de TVA
-- [Exercice 14](exercices_langage_C_ITSCM/instructions_ecriture_lecture/exercice_14.c) - Calcul du carré d'un nombre
+- [Exercice 11](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_11.c) - Affichage de sommes et produits
+- [Exercice 12](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_12.c) - Affichage de sommes et produits 2
+- [Exercice 13](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_13.c) - Calcul de TVA
+- [Exercice 14](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_14.c) - Calcul du carré d'un nombre
 
 ## 🛠 Environnement de développement
 - **Compilateur**: Apple Clang 16.0.0
