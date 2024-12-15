@@ -45,6 +45,8 @@ Ce dépôt contient mes exercices de programmation en C.
 - [Exercice 12](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_12.c) - Affichage de sommes et produits 2
 - [Exercice 13](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_13.c) - Calcul de TVA
 - [Exercice 14](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_14.c) - Calcul du carré d'un nombre
+
+### Les structures de choix
 - [Exercice 15](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_15.c) - < SOON >
 - [Exercice 16](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_16.c) - < SOON >
 - [Exercice 17](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_17.c) - < SOON >
