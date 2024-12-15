@@ -29,9 +29,25 @@ Ce dépôt contient mes exercices de programmation en C.
         │   ├── exercice_25.c
         │   ├── exercice_26.c
         │   └── prog
+        ├── les_structures_de_repetition
+        │   ├── exercice_27.c
+        │   ├── exercice_28.c
+        │   ├── exercice_29.c
+        │   ├── exercice_30.c
+        │   ├── exercice_31.c
+        │   ├── exercice_32.c
+        │   ├── exercice_33.c
+        │   ├── exercice_34.c
+        │   ├── exercice_35.c
+        │   ├── exercice_36.c
+        │   ├── exercice_37.c
+        │   ├── exercice_38.c
+        │   ├── exercice_39.c
+        │   ├── exercice_40.c
+        │   └── exercice_41.c
         └── soustracteur_simple.c
 
-5 directories, 22 files
+6 directories, 37 files
 ```
 
 ## 💻 Liste des exercices
