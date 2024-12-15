@@ -9,15 +9,29 @@ Ce dépôt contient mes exercices de programmation en C.
     └── exercices_entrainement
         ├── calculateur_de_gel_simple.c
         ├── circonf_calculateur_simple.c
-        ├── instructiond_ecriture_lecture
+        ├── instructions_ecriture_lecture
         │   ├── exercice_11.c
         │   ├── exercice_12.c
         │   ├── exercice_13.c
         │   ├── exercice_14.c
         │   └── prog
+        ├── les_structures_de_choix
+        │   ├── exercice_15.c
+        │   ├── exercice_16.c
+        │   ├── exercice_17.c
+        │   ├── exercice_18.c
+        │   ├── exercice_19.c
+        │   ├── exercice_20.c
+        │   ├── exercice_21.c
+        │   ├── exercice_22.c
+        │   ├── exercice_23.c
+        │   ├── exercice_24.c
+        │   ├── exercice_25.c
+        │   ├── exercice_26.c
+        │   └── prog
         └── soustracteur_simple.c
 
-4 directories, 9 files
+5 directories, 22 files
 ```
 
 Chaque fichier `.c` est accompagné de son exécutable compilé (sans extension).
@@ -33,9 +47,22 @@ Chaque fichier `.c` est accompagné de son exécutable compilé (sans extension)
 - [Exercice 12](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_12.c) - Affichage de sommes et produits 2
 - [Exercice 13](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_13.c) - Calcul de TVA
 - [Exercice 14](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_14.c) - Calcul du carré d'un nombre
+- [Exercice 15](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_15.c) - < SOON >
+- [Exercice 16](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_16.c) - < SOON >
+- [Exercice 17](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_17.c) - < SOON >
+- [Exercice 18](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_18.c) - < SOON >
+- [Exercice 19](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_19.c) - < SOON >
+- [Exercice 20](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_20.c) - < SOON >
+- [Exercice 21](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_21.c) - < SOON >
+- [Exercice 22](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_22.c) - < SOON >
+- [Exercice 23](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_23.c) - < SOON >
+- [Exercice 24](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_24.c) - < SOON >
+- [Exercice 25](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_25.c) - < SOON >
+- [Exercice 26](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_26.c) - < SOON >
 
 ## 🛠 Environnement de développement
 - **Compilateur**: Apple Clang 16.0.0
 - **Version**: clang-1600.0.26.4
 - **Architecture**: arm64-apple-darwin24.1.0
 - **Modèle de thread**: posix
+
