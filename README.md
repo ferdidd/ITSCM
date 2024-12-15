@@ -34,8 +34,6 @@ Ce dépôt contient mes exercices de programmation en C.
 5 directories, 22 files
 ```
 
-Chaque fichier `.c` est accompagné de son exécutable compilé (sans extension).
-
 ## 💻 Liste des exercices
 ### Exercices d'entraînement basiques
 - [Calculateur de gel](exercices_langage_C_ITSCM/exercices_entrainement/calculateur_de_gel_simple.c) - Détecteur de gel de liquides
