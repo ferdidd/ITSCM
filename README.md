@@ -47,18 +47,18 @@ Chaque fichier `.c` est accompagné de son exécutable compilé (sans extension)
 - [Exercice 12](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_12.c) - Affichage de sommes et produits 2
 - [Exercice 13](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_13.c) - Calcul de TVA
 - [Exercice 14](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_14.c) - Calcul du carré d'un nombre
-- [Exercice 15](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_15.c) - < SOON >
-- [Exercice 16](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_16.c) - < SOON >
-- [Exercice 17](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_17.c) - < SOON >
-- [Exercice 18](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_18.c) - < SOON >
-- [Exercice 19](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_19.c) - < SOON >
-- [Exercice 20](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_20.c) - < SOON >
-- [Exercice 21](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_21.c) - < SOON >
-- [Exercice 22](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_22.c) - < SOON >
-- [Exercice 23](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_23.c) - < SOON >
-- [Exercice 24](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_24.c) - < SOON >
-- [Exercice 25](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_25.c) - < SOON >
-- [Exercice 26](exercices_langage_C_ITSCM/exercices_entrainement/instructions_ecriture_lecture/exercice_26.c) - < SOON >
+- [Exercice 15](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_15.c) - < SOON >
+- [Exercice 16](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_16.c) - < SOON >
+- [Exercice 17](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_17.c) - < SOON >
+- [Exercice 18](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_18.c) - < SOON >
+- [Exercice 19](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_19.c) - < SOON >
+- [Exercice 20](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_20.c) - < SOON >
+- [Exercice 21](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_21.c) - < SOON >
+- [Exercice 22](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_22.c) - < SOON >
+- [Exercice 23](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_23.c) - < SOON >
+- [Exercice 24](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_24.c) - < SOON >
+- [Exercice 25](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_25.c) - < SOON >
+- [Exercice 26](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_26.c) - < SOON >
 
 ## 🛠 Environnement de développement
 - **Compilateur**: Apple Clang 16.0.0
