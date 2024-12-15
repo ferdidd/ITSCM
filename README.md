@@ -77,21 +77,21 @@ Ce dépôt contient mes exercices de programmation en C.
 - [Exercice 26](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_26.c) - < SOON >
 
 ### Les structures de répétition
-- [Exercice 27](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_15.c) - < SOON >
-- [Exercice 28](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_16.c) - < SOON >
-- [Exercice 29](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_17.c) - < SOON >
-- [Exercice 30](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_18.c) - < SOON >
-- [Exercice 31](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_19.c) - < SOON >
-- [Exercice 32](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_20.c) - < SOON >
-- [Exercice 33](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_21.c) - < SOON >
-- [Exercice 34](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_22.c) - < SOON >
-- [Exercice 35](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_23.c) - < SOON >
-- [Exercice 36](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_24.c) - < SOON >
-- [Exercice 37](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_25.c) - < SOON >
-- [Exercice 38](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_26.c) - < SOON >
-- [Exercice 39](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_26.c) - < SOON >
-- [Exercice 40](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_26.c) - < SOON >
-- [Exercice 41](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_26.c) - < SOON >
+- [Exercice 27](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_27.c) - < SOON >
+- [Exercice 28](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_28.c) - < SOON >
+- [Exercice 29](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_29.c) - < SOON >
+- [Exercice 30](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_30.c) - < SOON >
+- [Exercice 31](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_31.c) - < SOON >
+- [Exercice 32](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_32.c) - < SOON >
+- [Exercice 33](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_33.c) - < SOON >
+- [Exercice 34](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_34.c) - < SOON >
+- [Exercice 35](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_35.c) - < SOON >
+- [Exercice 36](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_36.c) - < SOON >
+- [Exercice 37](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_37.c) - < SOON >
+- [Exercice 38](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_38.c) - < SOON >
+- [Exercice 39](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_39.c) - < SOON >
+- [Exercice 40](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_40.c) - < SOON >
+- [Exercice 41](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_repetition/exercice_41.c) - < SOON >
 
 ## 🛠 Environnement de développement
 - **Compilateur**: Apple Clang 16.0.0
