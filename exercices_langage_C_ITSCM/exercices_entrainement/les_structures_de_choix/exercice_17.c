@@ -26,6 +26,42 @@
 
 int main(){
 	
+	// déclaration des variables
+	int nombre1, nombre2, nombre3;
+
+	// Instructions
+	printf("\n\nVeuillez entrer 3 nombres entiers \n\n");
+
+	// Input
+	scanf("%d %d %d", &nombre1, &nombre2, &nombre3);
+
+	// Verification des égalités
+	if(nombre1 < nombre2 && nombre2 < nombre3 && nombre1 < nombre3){
+		printf("\n\n%d < %d < %d\n\n", nombre1, nombre2, nombre3);
+	}
+	else if(nombre1 < nombre2 && nombre2 > nombre3 && nombre1 < nombre3){
+		printf("%d < %d > %d\n", nombre1, nombre2, nombre3);
+		printf("Donc %d < %d < %d\n", nombre1, nombre3, nombre2);
+	}
+	else if(nombre1 > nombre2 && nombre2 < nombre3 && nombre1 < nombre3){
+		printf("%d > %d < %d\n", nombre1, nombre2, nombre3);
+		printf("Donc %d < %d < %d\n", nombre2, nombre1, nombre3);
+	}
+	else if(nombre1 > nombre2 && nombre2 < nombre3 && nombre1 > nombre3){
+		printf("%d > %d < %d\n", nombre1, nombre2, nombre3);
+		printf("Donc %d < %d < %d\n", nombre2, nombre3, nombre1);
+	}
+	else if(nombre1 < nombre2 && nombre2 > nombre3 && nombre1 > nombre3){
+		printf("%d < %d > %d\n", nombre1, nombre2, nombre3);
+		printf("Donc %d < %d < %d\n", nombre3, nombre1, nombre2);
+	}
+	else if(nombre1 > nombre2 && nombre2 > nombre3 && nombre1 > nombre3){
+		printf("%d > %d > %d\n", nombre1, nombre2, nombre3);
+		printf("Donc %d < %d < %d\n", nombre3, nombre2, nombre1);
+	}
+	else{
+		printf("Il semble qu'il y ai eu une erreur, ou une égalité, la flemme de finir le programme\n");
+	}
 
 
 	return 0;
