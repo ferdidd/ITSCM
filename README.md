@@ -1,3 +1,10 @@
+!!!!!!!!!!
+!! NEWS !!
+!!!!!!!!!!
+
+!! J'ai simplifié la mise en forme des programmes à partir de l'exercice 16. Si j'ai le courrage je reformaterai les exercices précédents. 
+
+
 # ITSCM - Exercices en C
 Ce dépôt contient mes exercices de programmation en C.
 
