@@ -13,27 +13,41 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* 
+	
+	*----------------------------*
+ 	| Positif ou négatif ou Zero |
+	*----------------------------*
+	
+	Ecrire un algorithme qui demande un nombre à l’utilisateur, et l’informe ensuite si ce nombre est positif ou
+	négatif (on laisse de côté le cas où le nombre vaut zéro).
+	
+*/
+
 int main(){
-	//Variables
-	while(1){
-		//programme
-		system("clear");
-		printf("*----------------------------*\n");
-		printf("| |\n");
-		printf("*----------------------------*\n\n\n");
-		printf(",\nappuyez sur <ENTER> entre chaque valeurs et pour valider.\n\n");
-		scanf("", );
-		printf("",);
-		printf("");
-		printf("");
-		while(getchar() != '\n'){}
+	
+	// déclaration de la varible
+	int nombre;
 
-		printf("\n\n\nAppuyez sur <ENTER> pour continuer ou sur <q> pour quitter : \n");
-		touche = getchar();
-		if(touche == 'q' || touche == 'Q'){
-			break;
-		}
+	// Instructions
+	printf("\n\nVeuillez entrer un nombre entier positif ou négatif \n\n");
+
+	// Input
+	scanf("%d", &nombre);
+
+	// Verification des égalités
+	if(nombre < 0){
+		printf("\n\n%d est négatif\n\n", nombre);
 	}
-	return 0;
+	else if(nombre > 0){
+		printf("\n\n%d est positif\n\n", nombre);
+		
+	}
+	
+	else{
+		printf("\n%d est égal à 0, bah oui Einstein...\n\n", nombre);
+	}
 
+
+	return 0;
 }

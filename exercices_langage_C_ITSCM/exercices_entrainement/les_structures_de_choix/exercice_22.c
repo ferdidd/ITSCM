@@ -13,27 +13,28 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* 
+	
+	*--------------------*
+ 	| |
+	*--------------------*
+	
+	
+	
+*/
+
 int main(){
-	//Variables
-	while(1){
-		//programme
-		system("clear");
-		printf("*----------------------------*\n");
-		printf("| |\n");
-		printf("*----------------------------*\n\n\n");
-		printf(",\nappuyez sur <ENTER> entre chaque valeurs et pour valider.\n\n");
-		scanf("", );
-		printf("",);
-		printf("");
-		printf("");
-		while(getchar() != '\n'){}
+	
+	// déclaration de la varible
+	
 
-		printf("\n\n\nAppuyez sur <ENTER> pour continuer ou sur <q> pour quitter : \n");
-		touche = getchar();
-		if(touche == 'q' || touche == 'Q'){
-			break;
-		}
-	}
+	// Instructions
+	printf("\n\n\n\n");
+
+	// Input
+	scanf("", );
+
+	// Verification 
+	
 	return 0;
-
 }

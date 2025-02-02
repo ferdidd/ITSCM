@@ -39,13 +39,8 @@ int main(){
 	if(nombre < 0){
 		printf("\n\n%d est négatif\n\n", nombre);
 	}
-	else if(nombre > 0){
-		printf("\n\n%d est positif\n\n", nombre);
-		
-	}
-	
 	else{
-		printf("\n%d est égal à 0, bah oui Einstein...\n\n", nombre);
+		printf("\n\n%d est positif\n\n", nombre);
 	}
 
 
