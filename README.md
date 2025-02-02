@@ -66,9 +66,9 @@ Ce dépôt contient mes exercices de programmation en C.
 - [Exercice 15](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_15.c) - Affichage produit et somme
 - [Exercice 16](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_16.c) - Strictement croissant
 - [Exercice 17](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_17.c) - Égalité mathématique
-- [Exercice 18](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_18.c) - < SOON >
-- [Exercice 19](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_19.c) - < SOON >
-- [Exercice 20](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_20.c) - < SOON >
+- [Exercice 18](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_18.c) - Positif ou négatif
+- [Exercice 19](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_19.c) - Positif ou négatif ou Zero
+- [Exercice 20](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_20.c) - Calcule du taux de TVA et remise
 - [Exercice 21](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_21.c) - < SOON >
 - [Exercice 22](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_22.c) - < SOON >
 - [Exercice 23](exercices_langage_C_ITSCM/exercices_entrainement/les_structures_de_choix/exercice_23.c) - < SOON >
