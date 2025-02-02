@@ -6,34 +6,47 @@
 /*   By: ferdi <ferdivdb@hotmail.com>                                         */
 /*                                                                            */
 /*   Created: 2024/12/15 13:19:40                                             */
-/*   Updated: 2024/12/15 13:19:40                                             */
+/*   Updated: 2025/02/02 07:55:00                                             */
 /*                                                                            */
 /*                                                                            */
 /* ************************************************************************** */
+
 #include <stdio.h>
 #include <stdlib.h>
 
+/* 
+	
+	*-----------------------*
+ 	| strictement croissant |
+	*-----------------------*
+	
+	Lire deux nombres entiers et déterminer s’ils sont rangés ou non par ordre strictement croissant.
+
+*/
+
 int main(){
-	//Variables
-	while(1){
-		//programme
-		system("clear");
-		printf("*----------------------------*\n");
-		printf("| |\n");
-		printf("*----------------------------*\n\n\n");
-		printf(",\nappuyez sur <ENTER> entre chaque valeurs et pour valider.\n\n");
-		scanf("", );
-		printf("",);
-		printf("");
-		printf("");
-		while(getchar() != '\n'){}
 
-		printf("\n\n\nAppuyez sur <ENTER> pour continuer ou sur <q> pour quitter : \n");
-		touche = getchar();
-		if(touche == 'q' || touche == 'Q'){
-			break;
-		}
+	// Déclaration des variables
+	int nombre1, nombre2;
+
+	// Instructions
+	printf("Veuillez entrer deux nombres entiers\n\n");
+
+	// Input
+	scanf("%d %d", &nombre1, &nombre2);
+
+	if(nombre1 < nombre2){
+		printf("\n\n%d et %d sont strictement croissant \n\n", nombre1, nombre2);
 	}
-	return 0;
+	else if(nombre1 > nombre2){
+		printf("\n\n%d et %d ne sont pas croissant \n\n", nombre1, nombre2);
+	}
+	else if(nombre1 == nombre2){
+		printf("\n\n%d et %d sont égaux \n\n", nombre1, nombre2);
+	}
+	else{
+		printf("\n\nIl semble qu'il y ai une Erreur \n\n");
+	}
 
+	return 0;
 }

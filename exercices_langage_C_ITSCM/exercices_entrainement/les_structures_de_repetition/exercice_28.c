@@ -6,7 +6,7 @@
 /*   By: ferdi <ferdivdb@hotmail.com>                                         */
 /*                                                                            */
 /*   Created: 2024/12/15 14:11:00                                             */
-/*   Updated: 2024/12/15 14:11:00                                             */
+/*   Updated: 2025/01/18 15:51:00                                             */
 /*                                                                            */
 /*                                                                            */
 /* ************************************************************************** */
@@ -15,16 +15,21 @@
 
 int main(){
 	//Variables
+	int a,b,i;
+	char touche;
 	while(1){
 		//programme
 		system("clear");
-		printf("*----------------------------*\n");
-		printf("| |\n");
-		printf("*----------------------------*\n\n\n");
+		printf("*------------------------------*\n");
+		printf("| Affiche le double de l'écart |\n");
+		printf("*------------------------------*\n\n\n");
+		printf(",\nVeuillez entrer une valeur de départ et une valeur finale.\n");
 		printf(",\nappuyez sur <ENTER> entre chaque valeurs et pour valider.\n\n");
-		scanf("", );
-		printf("",);
-		printf("");
+		scanf("%d %d", &a, &b);
+		for (i=a ; i < b ; i++) 
+		{
+			printf("\n%d ", i*2);
+		}
 		printf("");
 		while(getchar() != '\n'){}
 

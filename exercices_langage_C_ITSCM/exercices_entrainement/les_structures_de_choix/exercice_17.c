@@ -13,27 +13,20 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* 
+	
+	*----------------------*
+ 	| égalité mathématique |
+	*----------------------*
+	
+	Lire trois nombres entiers et trouver s’ils sont ou non rangés dans l’ordre strictement croissant, c’est-à-dire
+	que, si a, b et c désignent ces nombres, ils devront vérifier l’égalité mathématique : a < b < c.
+	
+*/
+
 int main(){
-	//Variables
-	while(1){
-		//programme
-		system("clear");
-		printf("*----------------------------*\n");
-		printf("| |\n");
-		printf("*----------------------------*\n\n\n");
-		printf(",\nappuyez sur <ENTER> entre chaque valeurs et pour valider.\n\n");
-		scanf("", );
-		printf("",);
-		printf("");
-		printf("");
-		while(getchar() != '\n'){}
+	
 
-		printf("\n\n\nAppuyez sur <ENTER> pour continuer ou sur <q> pour quitter : \n");
-		touche = getchar();
-		if(touche == 'q' || touche == 'Q'){
-			break;
-		}
-	}
+
 	return 0;
-
 }
